@@ -4,7 +4,6 @@
 # ----------------------------------------------------------
 
 import tests
-import time
 
 from week2_assignment import *
 
