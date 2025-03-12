@@ -1,13 +1,15 @@
+import time
 def calculate_execution_time(func, *args):
     """
     Calculate and return the time taken for function 'func' to execute with arguments '*args'.
     """
     import datetime
+
     getstartdatetime = datetime.datetime.now()
     func(*args)
     getenddatetime = datetime.datetime.now()
-    time = getenddatetime - getstartdatetime
-    return time
+    endtime = getenddatetime - getstartdatetime
+    return endtime
     pass
 
 def bubble_sort(nums):
