@@ -4,11 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6aa6bc6-189a-48af-bda5-b71cb66c1713" name="Changes" comment="Finished Week 1 Assignment">
-      <change afterPath="$PROJECT_DIR$/Module 2/tester.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 2/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 2/week2_assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 2/week2_programming_guide.docx" afterDir="false" />
+    <list default="true" id="e6aa6bc6-189a-48af-bda5-b71cb66c1713" name="Changes" comment="First push">
+      <change afterPath="$PROJECT_DIR$/.idea/bellevueCS410spring2025.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1359" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1361" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1365" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1369" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1373" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1379" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1383" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1387" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1391" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1395" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1397" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1399" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1401" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1405" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1409" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1413" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1417" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 3/tester.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 3/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 3/week3_assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 3/week3_programming_guide.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 3/~$ek3_programming_guide.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module 1/~$ek1_programming_guide.docx" beforeDir="false" />
     </list>
@@ -27,16 +46,20 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2tsu1vs4VcEvjmELutM17Xon4ZV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.Discord webhook.executor": "Run",
     "Python.tester (1).executor": "Run",
+    "Python.tester (2).executor": "Run",
     "Python.tester.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -48,12 +71,13 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025\Module 3" />
       <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025\Module 2" />
       <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025\Module 1" />
       <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.tester (2)">
     <configuration name="Discord webhook" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bellevueCS410spring2025" />
       <option name="ENV_FILES" value="" />
@@ -98,6 +122,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tester (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bellevueCS410spring2025" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module 3/tester.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="tester" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bellevueCS410spring2025" />
       <option name="ENV_FILES" value="" />
@@ -122,8 +168,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tester (1)" />
+        <item itemvalue="Python.tester (2)" />
         <item itemvalue="Python.Discord webhook" />
+        <item itemvalue="Python.tester (1)" />
         <item itemvalue="Python.tester" />
       </list>
     </recent_temporary>
@@ -184,7 +231,31 @@
       <option name="project" value="LOCAL" />
       <updated>1741563774752</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Finished Week 2 Assignment">
+      <option name="closed" value="true" />
+      <created>1741645515541</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741645515541</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added &quot;import time&quot; Module">
+      <option name="closed" value="true" />
+      <created>1741645561382</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1741645561382</updated>
+    </task>
+    <task id="LOCAL-00008" summary="First push">
+      <option name="closed" value="true" />
+      <created>1741645597034</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1741645597034</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,9 +270,12 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="First push" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Collect User Details definition created" />
     <MESSAGE value="Finished Week 1 Assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished Week 1 Assignment" />
+    <MESSAGE value="Finished Week 2 Assignment" />
+    <MESSAGE value="added &quot;import time&quot; Module" />
+    <MESSAGE value="First push" />
+    <option name="LAST_COMMIT_MESSAGE" value="First push" />
   </component>
 </project>
