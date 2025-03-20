@@ -4,32 +4,172 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6aa6bc6-189a-48af-bda5-b71cb66c1713" name="Changes" comment="First push">
-      <change afterPath="$PROJECT_DIR$/.idea/bellevueCS410spring2025.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1359" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1361" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1365" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1369" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1373" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1379" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1383" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1387" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1391" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1395" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1397" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1399" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1401" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1405" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1409" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1413" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1417" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 3/tester.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 3/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 3/week3_assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 3/week3_programming_guide.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 3/~$ek3_programming_guide.docx" afterDir="false" />
+    <list default="true" id="e6aa6bc6-189a-48af-bda5-b71cb66c1713" name="Changes" comment="Misc updates">
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1575" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1579" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1583" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1585" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1589" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1593" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1597" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1601" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1605" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1609" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1611" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1615" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1619" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1625" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1627" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1631" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1633" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1637" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1639" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1641" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1643" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1647" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1649" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1653" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1657" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1659" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1661" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1663" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1667" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1669" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1673" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1677" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1679" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1683" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1687" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1691" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1693" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1697" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1699" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1703" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1707" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1711" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1715" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1717" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1721" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1725" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1729" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1733" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1735" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1737" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1739" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1741" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1745" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1749" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1751" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1755" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1757" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1759" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1763" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1767" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1769" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1771" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1773" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1775" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1779" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1781" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1783" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1785" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1787" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1789" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1791" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1793" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1797" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1799" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1801" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1803" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1805" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1807" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1809" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1813" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1815" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1817" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1819" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1821" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1825" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1827" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1829" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1831" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1833" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1837" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1839" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1843" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1847" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1851" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1855" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1857" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1859" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1861" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1863" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1865" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1869" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1873" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1875" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1877" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1879" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1881" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1885" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1889" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1891" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1893" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1897" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1899" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1901" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1905" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1907" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1909" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1911" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1913" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1915" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1917" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1919" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1921" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1925" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1927" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1929" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1931" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1933" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1935" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1937" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1941" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1943" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1945" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1947" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1951" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1953" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1957" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1961" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1963" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1967" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1971" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1973" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1975" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1977" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1979" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1981" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1985" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1987" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1989" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1991" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1995" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/1997" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/2001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/2003" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/2005" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/2009" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/2013" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/2015" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/2017" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/2019" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/2021" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/2025" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmp.driveupload/2027" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1/~$ek1_programming_guide.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 3/week3_assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 3/week3_assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 3/~$ek3_programming_guide.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +197,8 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Python.Discord webhook.executor": "Run",
+    "Python.Discord webhook.executor": "Debug",
+    "Python.scratch.executor": "Run",
     "Python.tester (1).executor": "Run",
     "Python.tester (2).executor": "Run",
     "Python.tester.executor": "Run",
@@ -77,7 +218,7 @@
       <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.tester (2)">
+  <component name="RunManager" selected="Python.Discord webhook">
     <configuration name="Discord webhook" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bellevueCS410spring2025" />
       <option name="ENV_FILES" value="" />
@@ -92,6 +233,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/Discord webhook.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bellevueCS410spring2025" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,8 +331,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tester (2)" />
         <item itemvalue="Python.Discord webhook" />
+        <item itemvalue="Python.tester (2)" />
+        <item itemvalue="Python.scratch" />
         <item itemvalue="Python.tester (1)" />
         <item itemvalue="Python.tester" />
       </list>
@@ -255,7 +419,31 @@
       <option name="project" value="LOCAL" />
       <updated>1741645597034</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Merge Sort Function Finished">
+      <option name="closed" value="true" />
+      <created>1741934002398</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741934002398</updated>
+    </task>
+    <task id="LOCAL-00010" summary="First upload">
+      <option name="closed" value="true" />
+      <created>1741934178601</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1741934178601</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Misc updates">
+      <option name="closed" value="true" />
+      <created>1741934234466</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1741934234466</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -276,6 +464,45 @@
     <MESSAGE value="Finished Week 2 Assignment" />
     <MESSAGE value="added &quot;import time&quot; Module" />
     <MESSAGE value="First push" />
-    <option name="LAST_COMMIT_MESSAGE" value="First push" />
+    <MESSAGE value="Merge Sort Function Finished" />
+    <MESSAGE value="First upload" />
+    <MESSAGE value="Misc updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Misc updates" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/Discord webhook.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/Discord webhook.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/Discord webhook.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/Discord webhook.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/Discord webhook.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/Discord webhook.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
