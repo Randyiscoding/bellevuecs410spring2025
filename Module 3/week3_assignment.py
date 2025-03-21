@@ -199,5 +199,21 @@ def quick_sort(arr):
 def binary_search(arr, x):
     """
     Find 'x' in sorted 'arr' using binary search. Return the index of 'x', or -1 if not found.
+    inspired by visualization: https://www.tiktok.com/t/ZT2GM8P8Q/
     """
+    list = arr
+    find = x
+    def binary(list, find, offset=0):
+        import random
+        if list == []:
+            return -1
+        tokennum = random.randint(0, len(list) - 1)
+        if list[tokennum] == find:
+            return offset + tokennum
+        elif list[tokennum] > find:
+            return binary(list[:tokennum], find, offset)
+        else:
+            if list[tokennum] < find:
+                return binary(list[tokennum + 1:], find, offset + tokennum + 1)
+    return binary(list, find, offset=0)
     pass
