@@ -61,9 +61,6 @@ def knapsack(weights, values, W):
         return 0
     else:
         return sumit(perm(weights, capacity))
-    ''' If i end up submitting this before updating the code. I dont understand dynamic programing
-        or 2D arrays and unfortunately brute forced my way through. I perfer not to just copy and 
-        past code especially if i dont fully understand how it works. '''
     pass
 
 def coin_change(coins, amount):
@@ -71,4 +68,25 @@ def coin_change(coins, amount):
     Given different coin denominations in 'coins' and a total amount 'amount', find the minimum number of coins that make up that amount.
     Return -1 if that amount cannot be made up by any combination of the coins.
     """
+    import itertools
+    def determine_coins(coins, amount):
+        combosum = []
+        n = len(coins)
+        while n > -1:
+            for y in itertools.combinations_with_replacement(coins, n):
+                if sum(y) == amount:
+                    combosum.append(y)
+            n -= 1
+        return combosum
+
+    def count_elements(combosum):
+        if not combosum:
+            return -1
+        else:
+            return len(min(combosum, key=len))
+
+    return count_elements(determine_coins(coins, amount))
     pass
+''' If i end up submitting this before updating the code. I dont understand dynamic programing
+        or 2D arrays and unfortunately brute forced my way through. I perfer not to just copy and 
+        paste code especially if i dont fully understand how it works. '''
