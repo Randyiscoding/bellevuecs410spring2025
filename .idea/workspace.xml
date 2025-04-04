@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6aa6bc6-189a-48af-bda5-b71cb66c1713" name="Changes" comment="Misc updates, added Module 5">
+    <list default="true" id="e6aa6bc6-189a-48af-bda5-b71cb66c1713" name="Changes" comment="Week 5 Assignment Completed">
+      <change afterPath="$PROJECT_DIR$/Module 6/tester.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 6/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 6/week6_assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 6/week6_programming_guide.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 4/~$ek4_programming_guide.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 5/week5_assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 5/week5_assignment.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,14 +53,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025\Module 6" />
+      <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025" />
       <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025\Module 5" />
       <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025\Module 4" />
       <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025\Module 3" />
-      <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025\Module 2" />
-      <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025\Module 1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Discord webhook">
+  <component name="RunManager" selected="Python.tester">
     <configuration name="Discord webhook" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bellevueCS410spring2025" />
       <option name="ENV_FILES" value="" />
@@ -171,8 +173,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Discord webhook" />
         <item itemvalue="Python.tester" />
+        <item itemvalue="Python.Discord webhook" />
         <item itemvalue="Python.tester (3)" />
         <item itemvalue="Python.scratch" />
         <item itemvalue="Python.tester (2)" />
@@ -355,7 +357,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743182282283</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Week 5 Assignment Completed">
+      <option name="closed" value="true" />
+      <created>1743724516666</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1743724516666</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -388,6 +398,7 @@
     <MESSAGE value="added git ignore for &quot;.tmp.driveupload&quot;" />
     <MESSAGE value="commit will be deleted shortly" />
     <MESSAGE value="Misc updates, added Module 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Misc updates, added Module 5" />
+    <MESSAGE value="Week 5 Assignment Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 5 Assignment Completed" />
   </component>
 </project>
