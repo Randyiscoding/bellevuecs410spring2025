@@ -35,4 +35,19 @@ def dijkstra(graph, start):
     Compute the shortest path from the start node to all other nodes in the graph using Dijkstra's algorithm.
     Return a list of minimum distances from the start node to every other node.
     """
+    n = len(graph)
+    distance = [float("inf")] * n
+    distance[start] = 0
+    unvisited = set(range(n))
+
+    while unvisited:
+        current = min(unvisited, key=lambda x: distance[x])
+        unvisited.remove(current)
+
+        for a, b in enumerate(graph[current]):
+            if b > 0 and a in unvisited:
+                updated = distance[current] + b
+                if updated < distance[a]:
+                    distance[a] = updated
+    return distance
     pass
