@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6aa6bc6-189a-48af-bda5-b71cb66c1713" name="Changes" comment="Completed BFS and DFS for Mod 6">
+    <list default="true" id="e6aa6bc6-189a-48af-bda5-b71cb66c1713" name="Changes" comment="Completed Dijkstra for Mod 6">
+      <change afterPath="$PROJECT_DIR$/Module 7/tester.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 7/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 7/week7_assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 7/week7_programming_guide.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 7/~$ek7_programming_guide.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,57 +34,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Python.Discord webhook.executor&quot;: &quot;Run&quot;,
-    &quot;Python.scratch.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tester (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.tester (2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.tester (3).executor&quot;: &quot;Run&quot;,
-    &quot;Python.tester.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.week2_assignment.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/spy__/PycharmProjects/bellevueCS410spring2025&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Python&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.Discord webhook.executor": "Run",
+    "Python.scratch.executor": "Debug",
+    "Python.scratch_1.executor": "Debug",
+    "Python.tester (1).executor": "Run",
+    "Python.tester (2).executor": "Run",
+    "Python.tester (3).executor": "Run",
+    "Python.tester.executor": "Debug",
+    "Python.week2_assignment.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/spy__/PycharmProjects/bellevueCS410spring2025",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Python"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025\Module 7" />
       <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025\Module 6" />
       <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025" />
       <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025\Module 5" />
       <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025\Module 4" />
-      <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025\Module 3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.scratch">
-    <configuration name="Discord webhook" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="bellevueCS410spring2025" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/Discord webhook.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.scratch_1">
     <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bellevueCS410spring2025" />
       <option name="ENV_FILES" value="" />
@@ -94,6 +78,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bellevueCS410spring2025" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tester" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tester (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bellevueCS410spring2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module 5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module 7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module 5/tester.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module 7/tester.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.scratch" />
+        <item itemvalue="Python.scratch_1" />
+        <item itemvalue="Python.tester (2)" />
         <item itemvalue="Python.tester (1)" />
+        <item itemvalue="Python.scratch" />
         <item itemvalue="Python.week2_assignment" />
-        <item itemvalue="Python.tester" />
-        <item itemvalue="Python.Discord webhook" />
       </list>
     </recent_temporary>
   </component>
@@ -378,7 +384,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744079785724</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Completed Dijkstra for Mod 6">
+      <option name="closed" value="true" />
+      <created>1744661223769</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1744661223769</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -414,7 +428,8 @@
     <MESSAGE value="Week 5 Assignment Completed" />
     <MESSAGE value="Uploaded Module 6" />
     <MESSAGE value="Completed BFS and DFS for Mod 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed BFS and DFS for Mod 6" />
+    <MESSAGE value="Completed Dijkstra for Mod 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Dijkstra for Mod 6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -445,9 +460,14 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py</url>
-          <line>27</line>
-          <option name="timeStamp" value="15" />
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
