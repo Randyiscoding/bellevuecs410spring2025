@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6aa6bc6-189a-48af-bda5-b71cb66c1713" name="Changes" comment="Completed Dijkstra for Mod 6">
-      <change afterPath="$PROJECT_DIR$/Module 7/tester.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 7/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 7/week7_assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 7/week7_programming_guide.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 7/~$ek7_programming_guide.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e6aa6bc6-189a-48af-bda5-b71cb66c1713" name="Changes" comment="Completed Module 7" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +33,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.Discord webhook.executor": "Run",
     "Python.scratch.executor": "Debug",
-    "Python.scratch_1.executor": "Debug",
+    "Python.scratch_1.executor": "Run",
     "Python.tester (1).executor": "Run",
     "Python.tester (2).executor": "Run",
     "Python.tester (3).executor": "Run",
@@ -63,7 +56,7 @@
       <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025\Module 4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.scratch_1">
+  <component name="RunManager" selected="Python.tester (2)">
     <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bellevueCS410spring2025" />
       <option name="ENV_FILES" value="" />
@@ -176,8 +169,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.scratch_1" />
         <item itemvalue="Python.tester (2)" />
+        <item itemvalue="Python.scratch_1" />
         <item itemvalue="Python.tester (1)" />
         <item itemvalue="Python.scratch" />
         <item itemvalue="Python.week2_assignment" />
@@ -392,7 +385,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744661223769</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Completed Module 7">
+      <option name="closed" value="true" />
+      <created>1744791890629</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1744791890629</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -429,7 +430,8 @@
     <MESSAGE value="Uploaded Module 6" />
     <MESSAGE value="Completed BFS and DFS for Mod 6" />
     <MESSAGE value="Completed Dijkstra for Mod 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed Dijkstra for Mod 6" />
+    <MESSAGE value="Completed Module 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Module 7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -461,13 +463,23 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py</url>
-          <line>4</line>
+          <line>6</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py</url>
-          <line>3</line>
+          <line>5</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
