@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6aa6bc6-189a-48af-bda5-b71cb66c1713" name="Changes" comment="Completed Module 7" />
+    <list default="true" id="e6aa6bc6-189a-48af-bda5-b71cb66c1713" name="Changes" comment="Misc updates">
+      <change afterPath="$PROJECT_DIR$/Module 8/tester.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 8/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 8/week8_assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 8/week8_programming_guide.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 8/~$ek8_programming_guide.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,11 +56,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025\Module 8" />
       <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025\Module 7" />
       <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025\Module 6" />
       <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025" />
       <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025\Module 5" />
-      <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025\Module 4" />
     </key>
   </component>
   <component name="RunManager" selected="Python.tester (2)">
@@ -393,7 +400,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744791890629</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Misc updates">
+      <option name="closed" value="true" />
+      <created>1744791942879</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1744791942879</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -416,7 +431,6 @@
     <MESSAGE value="First push" />
     <MESSAGE value="Merge Sort Function Finished" />
     <MESSAGE value="First upload" />
-    <MESSAGE value="Misc updates" />
     <MESSAGE value="Finished quick sort function" />
     <MESSAGE value="Misc Updates" />
     <MESSAGE value="Finished Week 3 Assignment" />
@@ -431,7 +445,8 @@
     <MESSAGE value="Completed BFS and DFS for Mod 6" />
     <MESSAGE value="Completed Dijkstra for Mod 6" />
     <MESSAGE value="Completed Module 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed Module 7" />
+    <MESSAGE value="Misc updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Misc updates" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
