@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6aa6bc6-189a-48af-bda5-b71cb66c1713" name="Changes" comment="uploaded Module 8">
+    <list default="true" id="e6aa6bc6-189a-48af-bda5-b71cb66c1713" name="Changes" comment="Module 6 update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 6/week6_assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 6/week6_assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 8/week8_assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 8/week8_assignment.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,26 +30,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Python.Discord webhook.executor&quot;: &quot;Run&quot;,
-    &quot;Python.scratch.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.scratch_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tester (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.tester (2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.tester (3).executor&quot;: &quot;Run&quot;,
-    &quot;Python.tester.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.week2_assignment.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/spy__/PycharmProjects/bellevueCS410spring2025&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Python&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.Discord webhook.executor": "Run",
+    "Python.scratch.executor": "Debug",
+    "Python.scratch_1.executor": "Run",
+    "Python.tester (1).executor": "Run",
+    "Python.tester (2).executor": "Run",
+    "Python.tester (3).executor": "Run",
+    "Python.tester.executor": "Run",
+    "Python.week2_assignment.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/spy__/PycharmProjects/bellevueCS410spring2025",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Python"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025\Module 8" />
@@ -59,7 +59,7 @@
       <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025\Module 5" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.tester (2)">
+  <component name="RunManager" selected="Python.tester">
     <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bellevueCS410spring2025" />
       <option name="ENV_FILES" value="" />
@@ -148,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="week2_assignment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tester" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bellevueCS410spring2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,11 +157,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module 8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module 2/week2_assignment.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module 8/tester.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tester" />
         <item itemvalue="Python.tester (2)" />
         <item itemvalue="Python.scratch_1" />
         <item itemvalue="Python.tester (1)" />
         <item itemvalue="Python.scratch" />
-        <item itemvalue="Python.week2_assignment" />
       </list>
     </recent_temporary>
   </component>
@@ -412,7 +412,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744951778455</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Module 6 update">
+      <option name="closed" value="true" />
+      <created>1745205038741</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1745205038741</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -451,7 +459,8 @@
     <MESSAGE value="Completed Module 7" />
     <MESSAGE value="Misc updates" />
     <MESSAGE value="uploaded Module 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="uploaded Module 8" />
+    <MESSAGE value="Module 6 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 6 update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
