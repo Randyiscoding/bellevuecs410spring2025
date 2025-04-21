@@ -15,20 +15,22 @@ def bfs(graph, start):
     return visited
     pass
 
+
 def dfs(graph, start):
     """
     Traverse the graph using Depth First Search starting from the given node.
     Return the order in which the nodes are visited.
     """
-    visited = [] #clean slate
+    visited = []  # clean slate
     queue = [start]
     while queue:
         traveling = queue.pop()
         if traveling not in visited:
             visited.append(traveling)
-            queue.extend(reversed(graph[traveling])) # Reversed so that nodes are traveled vertically first
+            queue.extend(reversed(graph[traveling]))  # Reversed so that nodes are traveled vertically first
     return visited
     pass
+
 
 def dijkstra(graph, start):
     """
