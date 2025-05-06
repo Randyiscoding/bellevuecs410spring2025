@@ -4,9 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6aa6bc6-189a-48af-bda5-b71cb66c1713" name="Changes" comment="Module 6 update">
+    <list default="true" id="e6aa6bc6-189a-48af-bda5-b71cb66c1713" name="Changes" comment="Module 8 completed">
+      <change afterPath="$PROJECT_DIR$/Module 10/tester.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 10/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 10/week10_assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 10/week10_programming_guide.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 11 and 12/sudoku_assignment_guide.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 11 and 12/sudoku_solver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 11 and 12/tester.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 11 and 12/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 9/tester.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 9/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 9/week9_assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 9/week9_programming_guide.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 8/week8_assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 8/week8_assignment.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,33 +41,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Python.Discord webhook.executor": "Run",
-    "Python.scratch.executor": "Debug",
-    "Python.scratch_1.executor": "Run",
-    "Python.tester (1).executor": "Run",
-    "Python.tester (2).executor": "Run",
-    "Python.tester (3).executor": "Run",
-    "Python.tester.executor": "Run",
-    "Python.week2_assignment.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/spy__/PycharmProjects/bellevueCS410spring2025",
-    "settings.editor.selected.configurable": "preferences.sourceCode.Python"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Discord webhook.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scratch.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.scratch_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tester (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.tester (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.tester (3).executor&quot;: &quot;Run&quot;,
+    &quot;Python.tester.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week2_assignment.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/spy__/PycharmProjects/bellevueCS410spring2025&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Python&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025\Module 11 and 12" />
+      <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025\Module 10" />
+      <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025\Module 9" />
       <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025\Module 8" />
       <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025\Module 7" />
-      <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025\Module 6" />
-      <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025" />
-      <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025\Module 5" />
     </key>
   </component>
   <component name="RunManager" selected="Python.tester">
@@ -420,7 +431,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745205038741</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Module 8 completed">
+      <option name="closed" value="true" />
+      <created>1745274416983</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1745274416983</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -460,7 +479,8 @@
     <MESSAGE value="Misc updates" />
     <MESSAGE value="uploaded Module 8" />
     <MESSAGE value="Module 6 update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module 6 update" />
+    <MESSAGE value="Module 8 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 8 completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
