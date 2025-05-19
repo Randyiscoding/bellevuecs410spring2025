@@ -3,6 +3,20 @@ def is_valid(board, row, col, num):
     Determine if it's valid to place 'num' at position (row, col) on the Sudoku board.
     Implement the necessary checks.
     """
+    b = board
+    r = row
+    c = col
+    n = num
+    if n in b[r]:
+        return False
+    for x in range(len(b)):
+        if b[x][c] == n:
+            return False
+    for x in range(r, r + 3):
+        for y in range(r, r + 3):
+            if b[x][y] == n:
+                return False
+    return True
     pass
 
 def solve_sudoku(board):
@@ -11,6 +25,18 @@ def solve_sudoku(board):
     Fill in the solution directly into the board.
     Return True if a solution exists, otherwise return False.
     """
+    for row in range(len(b)):
+        for cell in range(len(b[row])):
+            if b[row][cell] == 0:
+                for num in range(1,10):
+                    if is_valid(b,row,cell,num) == True:
+                        b[row][cell] = num
+                        if sudo(b):
+                            return True
+                        else:
+                            b[row][cell] = 0
+                return False
+    return True
     pass
 
 if __name__ == "__main__":
