@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6aa6bc6-189a-48af-bda5-b71cb66c1713" name="Changes" comment="Module 8 completed">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e6aa6bc6-189a-48af-bda5-b71cb66c1713" name="Changes" comment="Module 11-12 started">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module 11 and 12/sudoku_solver.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 11 and 12/sudoku_solver.py" afterDir="false" />
     </list>
@@ -58,7 +57,7 @@
     "Python.tester (1).executor": "Run",
     "Python.tester (2).executor": "Run",
     "Python.tester (3).executor": "Run",
-    "Python.tester.executor": "Run",
+    "Python.tester.executor": "Debug",
     "Python.week2_assignment.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -90,7 +89,7 @@
       <recent name="C:\Users\spy__\PycharmProjects\bellevueCS410spring2025\Module 7" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.tester">
+  <component name="RunManager" selected="Python.tester (1)">
     <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bellevuecs410spring2025" />
       <option name="ENV_FILES" value="" />
@@ -114,8 +113,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scratch_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="bellevueCS410spring2025" />
+    <configuration name="tester (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bellevuecs410spring2025" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,12 +122,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module 11 and 12" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module 11 and 12/tester.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tester (1)" />
+        <item itemvalue="Python.tester (3)" />
         <item itemvalue="Python.tester" />
         <item itemvalue="Python.scratch" />
-        <item itemvalue="Python.tester (3)" />
         <item itemvalue="Python.tester (2)" />
-        <item itemvalue="Python.scratch_1" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +233,7 @@
       <option name="presentableId" value="Default" />
       <updated>1741152893528</updated>
       <workItem from="1747548569370" duration="2172000" />
-      <workItem from="1747679675715" duration="13793000" />
+      <workItem from="1747679675715" duration="14757000" />
     </task>
     <task id="LOCAL-00001" summary="First push">
       <option name="closed" value="true" />
@@ -468,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745274416983</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Module 11-12 started">
+      <option name="closed" value="true" />
+      <created>1747694141157</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1747694141157</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -487,7 +494,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Collect User Details definition created" />
     <MESSAGE value="Finished Week 1 Assignment" />
     <MESSAGE value="Finished Week 2 Assignment" />
     <MESSAGE value="added &quot;import time&quot; Module" />
@@ -512,7 +518,8 @@
     <MESSAGE value="uploaded Module 8" />
     <MESSAGE value="Module 6 update" />
     <MESSAGE value="Module 8 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module 8 completed" />
+    <MESSAGE value="Module 11-12 started" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 11-12 started" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -567,6 +574,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/bellevuecs410spring2025$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1747693754626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
-    <SUITE FILE_PATH="coverage/bellevuecs410spring2025$tester__3_.coverage" NAME="tester (3) Coverage Results" MODIFIED="1747682981258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 10" />
+    <SUITE FILE_PATH="coverage/bellevuecs410spring2025$tester__1_.coverage" NAME="tester (1) Coverage Results" MODIFIED="1747694593604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 11 and 12" />
+    <SUITE FILE_PATH="coverage/bellevuecs410spring2025$tester__3_.coverage" NAME="tester (3) Coverage Results" MODIFIED="1747694206905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 10" />
   </component>
 </project>

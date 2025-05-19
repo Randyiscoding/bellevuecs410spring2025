@@ -7,13 +7,15 @@ def is_valid(board, row, col, num):
     r = row
     c = col
     n = num
+    smallgridr = r - r % 3
+    smallgridc = c - c % 3
     if n in b[r]:
         return False
     for x in range(len(b)):
         if b[x][c] == n:
             return False
-    for x in range(r, r + 3):
-        for y in range(r, r + 3):
+    for x in range(smallgridr, smallgridr + 3):
+        for y in range(smallgridc, smallgridc + 3):
             if b[x][y] == n:
                 return False
     return True
@@ -25,16 +27,16 @@ def solve_sudoku(board):
     Fill in the solution directly into the board.
     Return True if a solution exists, otherwise return False.
     """
+    b = board
     for row in range(len(b)):
         for cell in range(len(b[row])):
             if b[row][cell] == 0:
-                for num in range(1,10):
-                    if is_valid(b,row,cell,num) == True:
+                for num in range(1, 10):
+                    if is_valid(b, row, cell, num) == True:
                         b[row][cell] = num
-                        if sudo(b):
+                        if solve_sudoku(b):
                             return True
-                        else:
-                            b[row][cell] = 0
+                        b[row][cell] = 0
                 return False
     return True
     pass
