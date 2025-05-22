@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6aa6bc6-189a-48af-bda5-b71cb66c1713" name="Changes" comment="Module 11-12 Sudoku Completed">
-      <change afterPath="$PROJECT_DIR$/Module 11 and 12/sudoku_solver_MRV.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e6aa6bc6-189a-48af-bda5-b71cb66c1713" name="Changes" comment="Module 11-12 Sudoku MRV Version Completed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -241,7 +238,7 @@
       <updated>1741152893528</updated>
       <workItem from="1747548569370" duration="2172000" />
       <workItem from="1747679675715" duration="15037000" />
-      <workItem from="1747706504219" duration="3940000" />
+      <workItem from="1747706504219" duration="4698000" />
     </task>
     <task id="LOCAL-00001" summary="First push">
       <option name="closed" value="true" />
@@ -491,7 +488,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747695105498</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Module 11-12 Sudoku MRV Version Completed">
+      <option name="closed" value="true" />
+      <created>1747711271444</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1747711271444</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -510,7 +515,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Finished Week 2 Assignment" />
     <MESSAGE value="added &quot;import time&quot; Module" />
     <MESSAGE value="First push" />
     <MESSAGE value="Merge Sort Function Finished" />
@@ -535,7 +539,8 @@
     <MESSAGE value="Module 8 completed" />
     <MESSAGE value="Module 11-12 started" />
     <MESSAGE value="Module 11-12 Sudoku Completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module 11-12 Sudoku Completed" />
+    <MESSAGE value="Module 11-12 Sudoku MRV Version Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 11-12 Sudoku MRV Version Completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
